@@ -1,0 +1,5 @@
+{
+  "name": "FHIR Health Intelligence Dashboard",
+  "description": "A modern web dashboard that connects to a public FHIR API to visualize real patient and clinical data using graphs, counts, and timelines with AI-generated health summaries.",
+  "requestFramePermissions": []
+}
